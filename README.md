@@ -25,10 +25,3 @@
 ## Additional Information:
 
 - Ensure that you have administrative privileges to execute CMD commands and install necessary libraries.
-
-- The provided image illustrates the appearance of Sublime Text's logo and is included for visual reference. It's not directly related to the Sphero Bolt infrastructure but may serve as an example for customizing your README.md with images.
-
-```markdown
-<p align="center">
-<img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
-</p> 
