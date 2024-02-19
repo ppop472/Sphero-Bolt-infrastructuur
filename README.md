@@ -7,9 +7,9 @@
 1. **Open CMD as administrator.**
    
 2. **Install bleak library:** 
-
+    -pip install bleak
 3. **Install spherov2 library:** 
-
+    - pip install spherov2
 4. **Download the files from GitHub.**
 
 5. **Turn on your Sphero Bolts.**
