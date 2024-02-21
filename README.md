@@ -30,4 +30,4 @@
 
 **Administrative privileges.**
 
-    - Ensure that you have administrative privileges to execute CMD commands and install necessary libraries.
+- Ensure that you have administrative privileges to execute CMD commands and install necessary libraries.
