@@ -5,7 +5,7 @@
 ## Installation Steps:
 
 1. **Download python.**
-    - Download python: https://www.python.org/downloads/
+    - Download newest version of python: https://www.python.org/downloads/
 3. **Open CMD as administrator.**
    
 4. **Install bleak library:** 
