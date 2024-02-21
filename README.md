@@ -19,12 +19,12 @@
 8. **Locate the code on the back of the robots.**
 
 9. **Update the configuration file (.json):**
-- Modify the `.json` file to match the configuration of your robots. This file contains essential details for connecting and controlling the Sphero Bolts.
+    - Modify the `.json` file to match the configuration of your robots. This file contains essential details for connecting and controlling the Sphero Bolts.
 
 9. **Turn Bluetooth on.**
 
 10. **Run the code:**
-- Execute the code either from the command line interface (CMD) or by double-clicking on the `.py` file.
+    - Execute the code either from the command line interface (CMD) or by double-clicking on the `.py` file.
 
 ## Additional Information:
 
