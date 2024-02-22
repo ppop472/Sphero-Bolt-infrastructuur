@@ -4,7 +4,7 @@
 
 ## Installation Steps:
 
-1. **Download python and install.**
+1. **Download and install python.**
     - Download newest version of python: https://www.python.org/downloads/
 3. **Open CMD as administrator.**
    
